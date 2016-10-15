@@ -1,4 +1,4 @@
-This is my first time to learning git! WOW!
+This is my first time to learning git! HaHa WOW!
 HAHA,I'm altering this document at Home! 
 Hi,I'm coming,Just for testing!(At Home)
 This time,I want to test 'fetch'.
