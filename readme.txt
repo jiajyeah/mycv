@@ -1,1 +1,1 @@
-第一天学习git ：）
+This is my first time to learning git! WOW!
